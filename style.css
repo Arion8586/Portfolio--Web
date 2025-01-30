@@ -53,6 +53,13 @@ width: 30%;
 .icons .fa-brands{
     color: #bbb;
     font-size: 1.7rem;
+    cursor: pointer;
+   
+}
+.icons .fa-brands:hover{
+background: linear-gradient(#fff,#3877ff);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 .icons{
     display: flex;
